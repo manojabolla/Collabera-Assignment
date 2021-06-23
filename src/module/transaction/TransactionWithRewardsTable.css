@@ -1,0 +1,20 @@
+.tableLable {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+
+.transactionTable {
+  text-align: center;
+}
+
+.tableCell {
+  border: 1px solid black;
+  line-height: 24px;
+  font-size: 1em;
+  padding: 0.5em;
+}
+
+.loadMorebtn {
+  height: 40px;
+  margin: 1em 0;
+}
